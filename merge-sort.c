@@ -2,7 +2,7 @@
 
 static void sort(void)
 {
-	// TODO: add bubble sort algorithm here
+	//TODO: add merge sort algorithm here
 }
 
 int main()
